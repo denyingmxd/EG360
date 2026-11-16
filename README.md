@@ -98,3 +98,7 @@ If you use this code or model in your research, please cite:
 Project-specific code is provided under Apache-2.0; see [LICENSE](LICENSE).
 Third-party code retains its respective licenses and copyright notices; see
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## AI Assistance
+
+Codex assisted with code development, debugging, and documentation. The authors take responsibility for the released code.
